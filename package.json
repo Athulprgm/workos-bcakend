@@ -1,0 +1,8 @@
+{
+    "$schema": "https://www.schemastore.org/package.json",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "api-check": "node scripts/api-check.mjs"
+    }
+}
